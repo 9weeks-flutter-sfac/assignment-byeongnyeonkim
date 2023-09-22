@@ -70,6 +70,4 @@ class MyHomepage extends StatelessWidget {
       ),
     );
   }
-
-  Type get assignment2 => Title;
 }
