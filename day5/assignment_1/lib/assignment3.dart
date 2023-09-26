@@ -1,3 +1,4 @@
+// ignore_for_file: unused_import, camel_case_types, prefer_const_constructors
 import 'package:assignment_1/assignment1.dart';
 import 'package:flutter/material.dart';
 

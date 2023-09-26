@@ -1,4 +1,4 @@
-// ignore_for_file: unused_import
+// ignore_for_file: unused_import, camel_case_types, prefer_const_constructors
 
 import 'package:assignment_1/assignment2.dart';
 import 'package:assignment_1/assignment3.dart';
