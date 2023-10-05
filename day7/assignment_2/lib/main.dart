@@ -1,6 +1,6 @@
-import 'package:assignment_2/assignment1.dart';
 import 'package:assignment_2/assignment2.dart';
 import 'package:flutter/material.dart';
+import 'package:assignment_2/assignment1.dart';
 
 void main() {
   runApp(MyWidget());
