@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors, unused_import
+
 import 'dart:js';
 
 import 'package:flutter/material.dart';

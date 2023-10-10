@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors, use_build_context_synchronously, must_be_immutable
+
 import 'package:flutter/material.dart';
 import 'package:secret_cat_sdk/api/api.dart';
 
